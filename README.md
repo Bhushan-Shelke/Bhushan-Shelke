@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bhushan-Shelke
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything which helps me learn and grow
 - 📫 How to reach me bhushan892000@gmail.com
 
 <!---
