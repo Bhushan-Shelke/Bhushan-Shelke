@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhushan-Shelke
 # 💫 About Me:
-🌱 I’m currently learning HTML<br>💬 Ask me about HTML<br>📫 How to reach me bhushan892000@gmail.com<br>
+🌱 I’m currently learning Full Stack Web Development <br>💬 Ask me about HTML CSS JavaScript<br>📫 How to reach me bhushan892000@gmail.com<br>
 
 
 ## 🌐 Socials:
